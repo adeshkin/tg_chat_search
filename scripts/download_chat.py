@@ -6,7 +6,10 @@ from dotenv import load_dotenv
 from telethon import TelegramClient  # type: ignore
 from tqdm.asyncio import tqdm
 
-CHATS = {"natural_language_processing": -1001095835958}
+CHATS = {"natural_language_processing": -1001095835958, 
+         "betterdatacommunity": -1001897390401,
+         "kod_odin": -1001672337899}
+
 URL_TEMPLATE = "https://t.me/{}/{}"
 
 
