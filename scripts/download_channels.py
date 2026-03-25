@@ -165,6 +165,8 @@ def download_channels(output_file: str) -> None:
             "mishin_learning",
             "korneychukov",
             "ruadaptnaya",
+            "mashkka_ds",
+            "neurotatarlar"
         ]
     )
     records = spider()
