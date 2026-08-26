@@ -21,7 +21,7 @@ Live demo: [https://ilyagusev.dev/nlpsearch](https://ilyagusev.dev/nlpsearch)
 - Python 3.12+
 - [uv](https://github.com/astral-sh/uv) package manager
 - OpenRouter API key
-- Telegram API credentials (for downloading chat data)
+- Telegram API credentials (for downloading chat data) - https://my.telegram.org/apps
 
 ### Setup
 
